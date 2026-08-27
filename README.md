@@ -18,6 +18,20 @@ We conducted 10 distinct data partitions based on [IF_CALC](https://github.com/D
 
 * [Trento](https://github.com/danfenghong/IEEE_GRSL_EndNet/blob/master/README.md)
 
+## Dataset Setup
+
+Before running SFCM‑Net, you need to build the dataset directory structure manually.
+Create three sub‑folders named `Houston`, `Muufl` and `Trento` inside the `dataset` folder under the project root path.
+The final file structure is shown below:
+
+```
+SFCM-Net/
+└── dataset/
+    ├── Houston/
+    ├── Muufl/
+    └── Trento/
+```
+
 ## 🌈 Results
 
 | Dataset  | OA (%) | AA (%) | Kappa (%) |
