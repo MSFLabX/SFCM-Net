@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-python-brightgreen) 
 
-Our model was trained on an NVIDIA A800-SXM4-80GB GPU.
+Our model was trained on an NVIDIA NVIDIA RTX 4090 GPU.
 
 <div align="center">
     <img src="net.png" alt="framework" width="800"/>
