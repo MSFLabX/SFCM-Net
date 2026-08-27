@@ -32,7 +32,7 @@ We conducted 10 distinct data partitions based on [IF_CALC](https://github.com/D
 
 To get started, we recommend setting up a conda environment and installing dependencies via pip. Use the following commands to set up your environment.
     
-    conda create -n sfcmnet python==3.11
+    conda create -n sfcmnet python==3.9
     
     conda activate sfcmnet
     
